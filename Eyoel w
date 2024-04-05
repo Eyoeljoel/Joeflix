@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My webpage</title>
+</head>
+<body>
+    <a href="https://www.facebook.com" target="_blank">    
+        <img width="300" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464">
+    </a>
+
+    <p>
+        <a href="https://www.x.com" target="_blank">This link</a>
+        will take you the worst version of twitter
+    </p>
+    <br>
+    <p>Whose better?</p>
+    <ul>
+        <li>Facebook</li>
+        <li>X</li>
+    </ul>
+    <br>
+
+    <table border="5" width="200">
+        <tr bgcolor="darkgray" align="center">
+            <th width="100">Facebook</th>
+            <th width="100">X</th>
+        </tr>
+
+        <tr bgcolor="lightgray" align="center">
+            <td>Old</td>
+            <td>Twitter</td>
+        </tr>
+    </table>
+</body>
+</html>
